@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.9in"
+   height="1.1in"
+   viewBox="0 0 22.86 27.94"
+   id="svg502"
+   sodipodi:docname="1,28inch_Round_TFT_LCD-Display_240x240_GC9A01_front_schematic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs506" />
+  <sodipodi:namedview
+     id="namedview504"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="7.8503786"
+     inkscape:cx="40.571292"
+     inkscape:cy="52.863692"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg502" />
+  <rect
+     class="interior rect"
+     x="5.23875"
+     y="5.23875"
+     width="12.3825"
+     height="17.4625"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="0.3175"
+     stroke-linecap="round"
+     id="rect458" />
+  <line
+     class="pin"
+     x1="17.6565"
+     y1="12.7"
+     x2="22.7365"
+     y2="12.7"
+     fill="none"
+     stroke="#787878"
+     stroke-width="0.246944"
+     stroke-linecap="round"
+     id="connector12pin" />
+  <text
+     class="text"
+     font-family="'Droid Sans'"
+     stroke="none"
+     stroke-width="0"
+     fill="#8c8c8c"
+     font-size="1.23472px"
+     x="17.1626"
+     y="12.9469"
+     text-anchor="end"
+     id="text461">SDA</text>
+  <rect
+     class="terminal"
+     x="22.7365"
+     y="12.5765"
+     width="0.246944"
+     height="0.246944"
+     fill="none"
+     stroke="none"
+     stroke-width="0"
+     id="connector12terminal" />
+  <line
+     class="pin"
+     x1="17.6565"
+     y1="15.24"
+     x2="22.7365"
+     y2="15.24"
+     fill="none"
+     stroke="#787878"
+     stroke-width="0.246944"
+     stroke-linecap="round"
+     id="connector13pin" />
+  <text
+     class="text"
+     font-family="'Droid Sans'"
+     stroke="none"
+     stroke-width="0"
+     fill="#8c8c8c"
+     font-size="1.23472px"
+     x="17.1626"
+     y="15.4869"
+     text-anchor="end"
+     id="text465">SCL</text>
+  <rect
+     class="terminal"
+     x="22.7365"
+     y="15.1165"
+     width="0.246944"
+     height="0.246944"
+     fill="none"
+     stroke="none"
+     stroke-width="0"
+     id="connector13terminal" />
+  <line
+     class="pin"
+     x1="0.123472"
+     y1="12.7"
+     x2="5.2034702"
+     y2="12.7"
+     fill="none"
+     stroke="#787878"
+     stroke-width="0.246944"
+     stroke-linecap="round"
+     id="connector15pin" />
+  <text
+     class="text"
+     font-family="'Droid Sans'"
+     stroke="none"
+     stroke-width="0"
+     fill="#8c8c8c"
+     font-size="1.23472px"
+     x="5.69736"
+     y="12.9469"
+     text-anchor="start"
+     id="text469">CS</text>
+  <rect
+     class="terminal"
+     x="-0.123472"
+     y="12.5765"
+     width="0.246944"
+     height="0.246944"
+     fill="none"
+     stroke="none"
+     stroke-width="0"
+     id="connector15terminal" />
+  <line
+     class="pin"
+     x1="0.123472"
+     y1="15.24"
+     x2="5.2034702"
+     y2="15.24"
+     fill="none"
+     stroke="#787878"
+     stroke-width="0.246944"
+     stroke-linecap="round"
+     id="connector14pin" />
+  <text
+     class="text"
+     font-family="'Droid Sans'"
+     stroke="none"
+     stroke-width="0"
+     fill="#8c8c8c"
+     font-size="1.23472px"
+     x="5.69736"
+     y="15.4869"
+     text-anchor="start"
+     id="text473">DC</text>
+  <line
+     class="pin"
+     x1="0.1234715"
+     y1="17.686907"
+     x2="5.2034702"
+     y2="17.686907"
+     fill="none"
+     stroke="#787878"
+     stroke-width="0.246944"
+     stroke-linecap="round"
+     id="connector14pin-2" />
+  <text
+     class="text"
+     font-family="'Droid Sans'"
+     stroke="none"
+     stroke-width="0"
+     fill="#8c8c8c"
+     font-size="1.23472px"
+     x="5.69736"
+     y="17.933807"
+     text-anchor="start"
+     id="text473-7">RST</text>
+  <rect
+     class="terminal"
+     x="-0.123472"
+     y="15.1165"
+     width="0.246944"
+     height="0.246944"
+     fill="none"
+     stroke="none"
+     stroke-width="0"
+     id="connector14terminal" />
+  <line
+     class="pin"
+     x1="10.16"
+     y1="22.7365"
+     x2="10.16"
+     y2="27.8165"
+     fill="none"
+     stroke="#787878"
+     stroke-width="0.246944"
+     stroke-linecap="round"
+     id="connector11pin" />
+  <g
+     transform="translate(10.4069,22.2426)"
+     id="g481">
+    <g
+       transform="rotate(-90)"
+       id="g479">
+      <text
+         class="text"
+         font-family="'Droid Sans'"
+         stroke="none"
+         stroke-width="0"
+         fill="#8c8c8c"
+         font-size="1.23472px"
+         x="0"
+         y="0"
+         text-anchor="start"
+         id="text477">GND</text>
+    </g>
+  </g>
+  <rect
+     class="terminal"
+     x="10.0365"
+     y="27.8165"
+     width="0.246944"
+     height="0.246944"
+     fill="none"
+     stroke="none"
+     stroke-width="0"
+     id="connector11terminal" />
+  <line
+     class="pin"
+     x1="10.16"
+     y1="0.123472"
+     x2="10.16"
+     y2="5.2034702"
+     fill="none"
+     stroke="#787878"
+     stroke-width="0.246944"
+     stroke-linecap="round"
+     id="connector10pin" />
+  <g
+     transform="translate(10.4069,5.69736)"
+     id="g489">
+    <g
+       transform="rotate(-90)"
+       id="g487">
+      <text
+         class="text"
+         font-family="'Droid Sans'"
+         stroke="none"
+         stroke-width="0"
+         fill="#8c8c8c"
+         font-size="1.23472px"
+         x="0"
+         y="0"
+         text-anchor="end"
+         id="text485">3.3V</text>
+    </g>
+  </g>
+  <rect
+     class="terminal"
+     x="10.0365"
+     y="-0.123472"
+     width="0.246944"
+     height="0.246944"
+     fill="none"
+     stroke="none"
+     stroke-width="0"
+     id="connector10terminal" />
+  <text
+     class="text"
+     id="label"
+     font-family="'Droid Sans'"
+     stroke="none"
+     stroke-width="0"
+     fill="#000000"
+     font-size="1.49931px"
+     x="11.723614"
+     y="10.838268"
+     text-anchor="middle"
+     style="line-height:1.9;word-spacing:-0.132292px"><tspan
+       sodipodi:role="line"
+       id="tspan1809"
+       x="11.723614"
+       y="10.838268">1.28''TFT</tspan><tspan
+       sodipodi:role="line"
+       x="11.723614"
+       y="13.686957"
+       id="tspan1815">VER1.0</tspan><tspan
+       sodipodi:role="line"
+       id="tspan1811"
+       x="11.723614"
+       y="16.535646">240 x 240</tspan><tspan
+       sodipodi:role="line"
+       x="11.723614"
+       y="19.384336"
+       id="tspan1813">IC: GC9A01</tspan></text>
+</svg>
